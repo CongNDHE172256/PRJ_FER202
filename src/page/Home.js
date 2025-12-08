@@ -6,7 +6,6 @@ import Footer from "../components/footer";
 function Home() {
   const navigate = useNavigate();
 
-  // 1. Cập nhật dữ liệu giả thành Đồ Công Nghệ
   const mockProducts = [
     {
       id: 1,
