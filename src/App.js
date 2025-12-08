@@ -1,7 +1,11 @@
+import Router from "./routers/Router";
+
 function App() {
     return (
-        <div>FER202 - Practical Exam given</div>
-    )
+        <div>
+            <Router />
+        </div>
+    );
 }
 
 export default App;
