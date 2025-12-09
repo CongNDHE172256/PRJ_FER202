@@ -6,7 +6,7 @@ function Footer() {
         <footer style={{ backgroundColor: "#111", color: "white", padding: "60px 0", marginTop: "auto" }}>
             <Container>
                 <Row>
-                    {/* Cột 1: Thông tin thương hiệu */}
+                    {/* Cột 1: Thông tin thương hiệu  */}
                     <Col md={3} className="mb-4">
                         <div className="d-flex align-items-center mb-3">
                             <i className="fas fa-microchip me-2" style={{ color: "#00c3ff", fontSize: "24px" }}></i>
